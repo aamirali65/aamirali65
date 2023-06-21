@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@aamiral20704915" target="blank"><img src="https://img.shields.io/twitter/follow/@aamiral20704915?logo=twitter&style=for-the-badge" alt="@aamiral20704915" /></a> </p>
 
-- 🌱 I’m currently learning **M.E.R.N**
+- 🌱 I’m currently learning **M.E.A.R.N**
 
 - 👨‍💻 All of my projects are available at [aamiralmani.tk](aamiralmani.tk)
 
