@@ -9,15 +9,11 @@
 
 - 🌱 I’m currently learning **M.E.R.N**
 
-- 👨‍💻 All of my projects are available at [aamiralmani.tk](aamiralmani.tk)
-
 - 💬 Ask me about **Angular, Javascript, PHP and Many More**
 
 - 📫 How to reach me **amir6565ali@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1K1Rw0i3e-aEO3K_XbEr-omGI0y3ir6qg/edit?usp=drive_link](https://docs.google.com/document/d/1K1Rw0i3e-aEO3K_XbEr-omGI0y3ir6qg/edit?usp=drive_link)
-
-- ⚡ Fun fact **Recently i started learning Ethical Hacking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
