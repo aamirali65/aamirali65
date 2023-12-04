@@ -6,9 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/@aamiral20704915" target="blank"><img src="https://img.shields.io/twitter/follow/@aamiral20704915?logo=twitter&style=for-the-badge" alt="@aamiral20704915" /></a> </p>
 
-- 🌱 I’m currently learning **M.E.R.N**
-
-- 💬 Ask me about **Angular, Javascript, PHP and Many More**
+- 💬 Ask me about **Angular, Laravel, Flutter and Many More**
 
 - 📫 How to reach me **amir6565ali@gmail.com**
 
