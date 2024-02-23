@@ -6,12 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/aamir_almani65" target="blank"><img src="https://img.shields.io/twitter/follow/aamir_almani65?logo=twitter&style=for-the-badge" alt="aamir_almani65" /></a> </p>
 
-- 💬 Ask me about **Angular, Laravel, Flutter and Many More**
-
-- 📫 How to reach me **amir6565ali@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1K1Rw0i3e-aEO3K_XbEr-omGI0y3ir6qg/edit?usp=drive_link](https://docs.google.com/document/d/1K1Rw0i3e-aEO3K_XbEr-omGI0y3ir6qg/edit?usp=drive_link)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@itx-zorro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@itx-zorro" height="30" width="40" /></a>
