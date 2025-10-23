@@ -66,5 +66,7 @@ _Jun 2023 – Aug 2023_
 
 - **Email:** [contact.aamirali65@gmail.com](mailto:contact.aamirali65@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/aamirali65](https://www.linkedin.com/in/aamirali65)  
-- **GitHub:** [github.com/aamirali65](https://github.com/aamirali65)  
+- **GitHub:** [github.com/aamirali65](https://github.com/aamirali65)
+- **X:** [x.com/aamir_almani65](https://x.com/aamir_almani65)
+- **Instagram:**[instagram.com/aamir.develop/](https://www.instagram.com/aamir.develop/)
 
