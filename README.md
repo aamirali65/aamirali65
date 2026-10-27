@@ -10,6 +10,8 @@
 
 <a href="https://aamiralmani.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-aamiralmani-00D9C0?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/aamirali65"><img src="https://img.shields.io/badge/LinkedIn-aamirali65-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://x.com/aamirali6565"><img src="https://img.shields.io/badge/X-aamirali6565-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://www.xing.com/profile/Aamir_Almani"><img src="https://img.shields.io/badge/XING-Aamir_Almani-006567?style=for-the-badge&logo=xing&logoColor=white" alt="XING" /></a>
 <a href="https://www.instagram.com/aamir.develop/"><img src="https://img.shields.io/badge/Instagram-aamir.develop-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="mailto:contact.aamirali65@gmail.com"><img src="https://img.shields.io/badge/Email-contact.aamirali65-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
