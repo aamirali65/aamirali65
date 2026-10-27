@@ -109,17 +109,17 @@ Python · PySide6 · Electron · PHP · Angular · Unity · C# · C++
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=aamirali65&show_icons=true&include_all_commits=true&count_private=true&hide=issues&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D9C0&icon_color=6C63FF" alt="GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamirali65&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D9C0" alt="Top languages" />
 
-<img width="100%" src="https://github-readme-streak-stats.demolab.com?user=aamirali65&theme=tokyonight&hide_border=true&background=00000000&ring=00D9C0&fire=6C63FF&currStreakLabel=00D9C0" alt="Commit streak" />
+<img width="100%" src="https://streak-stats.demolab.com?user=aamirali65&theme=tokyonight&hide_border=true&background=00000000&ring=00D9C0&fire=6C63FF&currStreakLabel=00D9C0" alt="Commit streak" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aamirali65&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20activity&point=00D9C0&line=6C63FF" alt="Activity graph" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aamirali65&theme=tokyonight" alt="Contribution summary" />
+
+<img width="100%" src="https://ghchart.rshah.org/00D9C0/aamirali65" alt="Contribution chart" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aamirali65/aamirali65/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aamirali65/aamirali65/output/github-contribution-grid-snake.svg" />
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/aamirali65/aamirali65/output/github-contribution-grid-snake.svg" />
 </picture>
-
-<img src="https://github-profile-trophy.vercel.app/?username=aamirali65&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trophies" />
 
 </div>
 
