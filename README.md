@@ -106,7 +106,7 @@ Python · PySide6 · Electron · PHP · Angular · Unity · C# · C++
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aamirali65&show_icons=true&include_all_commits=true&count_private=true&hide=issues&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D9C0&icon_color=6C63FF" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aamirali65&show_icons=true&count_private=true&hide=issues&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D9C0&icon_color=6C63FF" alt="GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamirali65&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D9C0" alt="Top languages" />
 
 <img width="100%" src="https://streak-stats.demolab.com?user=aamirali65&theme=tokyonight&hide_border=true&background=00000000&ring=00D9C0&fire=6C63FF&currStreakLabel=00D9C0" alt="Commit streak" />
