@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D9C0&height=210&section=header&text=Aamir%20Almani&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20%26%20Flutter%20Developer&descAlignY=58&descSize=20&animation=fadeIn" alt="Aamir Almani" width="100%" />
+<img src="https://raw.githubusercontent.com/aamirali65/aamirali65/main/assets/banner.svg" alt="Aamir Almani — Full-Stack and Flutter Developer" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00D9C0&center=true&vCenter=true&width=760&lines=Flutter+%2B+Firebase+%2B+Supabase;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;I+ship+products%2C+not+tutorials.;Currently+building+local-first+developer+tools." alt="What I do" />
@@ -148,6 +148,6 @@ Turned design mockups into responsive interfaces with React, Tailwind CSS and mo
 
 **Open to interesting problems — reach me at [contact.aamirali65@gmail.com](mailto:contact.aamirali65@gmail.com)**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9C0,100:6C63FF&height=110&section=footer" alt="" width="100%" />
+<img src="https://raw.githubusercontent.com/aamirali65/aamirali65/main/assets/footer.svg" alt="" width="100%" />
 
 </div>
