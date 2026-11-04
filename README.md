@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00D9C0&center=true&vCenter=true&width=760&lines=Flutter+%2B+Firebase+%2B+Supabase;React+%7C+Next.js+%7C+Angular+%7C+TypeScript;Node+%7C+Express+%7C+Django+%7C+Laravel+%7C+PostgreSQL;I+ship+products%2C+not+tutorials.;Currently+building+local-first+developer+tools." alt="What I do" />
 </a>
 
-**as far as i can remember i always wanted to be a <del>gangster</del> developer**
+**as far as i can remember i always wanted to be a **<del>gangster</del> **developer**
 
 <a href="https://aamiralmani.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-aamiralmani-00D9C0?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/aamirali65"><img src="https://img.shields.io/badge/LinkedIn-aamirali65-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
