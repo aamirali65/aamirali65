@@ -90,7 +90,6 @@ Recent focus: **local-first desktop tools** that keep data on the machine — a 
 <a href="https://x.com/aamirali6565" title="X"><img height="40" src="https://skillicons.dev/icons?i=twitter" alt="X" /></a>
 <a href="https://www.instagram.com/aamir.develop/" title="Instagram"><img height="40" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
 <a href="mailto:contact.aamirali65@gmail.com" title="Email"><img height="40" src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
-<a href="https://www.xing.com/profile/Aamir_Almani" title="XING"><img height="40" src="https://img.shields.io/badge/XING-006567?style=for-the-badge&logo=xing&logoColor=white" alt="XING" /></a>
 
 </div>
 
