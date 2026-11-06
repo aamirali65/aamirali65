@@ -8,8 +8,6 @@
 
 **as far as i can remember i always wanted to be a** <del>gangster</del> **developer**
 
-**Karachi, Pakistan** · Flutter Developer at **Zilo Digital** · CS undergraduate at **SZABIST**
-
 <img src="https://komarev.com/ghpvc/?username=aamirali65&label=Profile%20views&color=00d9c0&style=flat-square" alt="Profile views" />
 
 </div>
