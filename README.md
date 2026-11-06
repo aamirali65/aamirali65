@@ -100,8 +100,12 @@ Recent focus: **local-first desktop tools** that keep data on the machine — a 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aamirali65&show_icons=true&count_private=true&hide=issues&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D9C0&icon_color=6C63FF" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamirali65&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D9C0" alt="Top languages" />
+<img src="https://raw.githubusercontent.com/aamirali65/aamirali65/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub stats: contributions, public repos, joined date and language history" />
+
+<br />
+<br />
+
+<img height="170" src="https://raw.githubusercontent.com/aamirali65/aamirali65/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages by commit" />
 
 <br />
 <br />
