@@ -8,12 +8,7 @@
 
 **as far as i can remember i always wanted to be a** <del>gangster</del> **developer**
 
-<a href="https://aamiralmani.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-aamiralmani-00D9C0?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/aamirali65"><img src="https://img.shields.io/badge/LinkedIn-aamirali65-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://x.com/aamirali6565"><img src="https://img.shields.io/badge/X-aamirali6565-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-<a href="https://www.xing.com/profile/Aamir_Almani"><img src="https://img.shields.io/badge/XING-Aamir_Almani-006567?style=for-the-badge&logo=xing&logoColor=white" alt="XING" /></a>
-<a href="https://www.instagram.com/aamir.develop/"><img src="https://img.shields.io/badge/Instagram-aamir.develop-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="mailto:contact.aamirali65@gmail.com"><img src="https://img.shields.io/badge/Email-contact.aamirali65-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+**Karachi, Pakistan** · Flutter Developer at **Zilo Digital** · CS undergraduate at **SZABIST**
 
 <img src="https://komarev.com/ghpvc/?username=aamirali65&label=Profile%20views&color=00d9c0&style=flat-square" alt="Profile views" />
 
@@ -27,13 +22,33 @@ I build products end to end — the interface, the state, the API and the deploy
 
 Recent focus: **local-first desktop tools** that keep data on the machine — a video clipping studio driven by Ollama and FFmpeg, a privacy-first OCR utility, and a codebase assistant that runs on the desktop instead of a web page.
 
-```text
-Frontend  · HTML · CSS · Tailwind · Bootstrap · JavaScript · React · Next.js · Angular · TypeScript
-Backend   · Node.js · Express · Laravel · PHP · Django · Python · Java · C++
-Databases · Firebase · Supabase · PostgreSQL · MySQL · MongoDB
-Mobile    · Flutter · Dart · Electron · PySide6 · Unity
-DevOps    · Docker · Kubernetes · Git · GitHub
-```
+---
+
+## Stack
+
+<div align="center">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs,angular,ts" alt="HTML, CSS, Tailwind, Bootstrap, JavaScript, React, Next.js, Angular, TypeScript" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,django,python,java,cpp" alt="Node.js, Express, Laravel, PHP, Django, Python, Java, C++" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=firebase,supabase,postgres,mysql,mongodb" alt="Firebase, Supabase, PostgreSQL, MySQL, MongoDB" />
+
+**Mobile & desktop**
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,electron,qt,unity" alt="Flutter, Dart, Electron, PySide6 (Qt), Unity" />
+
+**DevOps & tooling**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,githubactions,vite" alt="Docker, Kubernetes, Git, GitHub, GitHub Actions, Vite" />
+
+</div>
 
 ---
 
@@ -66,57 +81,16 @@ DevOps    · Docker · Kubernetes · Git · GitHub
 
 ---
 
-## Stack
+## Social media
 
 <div align="center">
 
-**Frontend**
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-
-**Backend**
-
-<img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-
-**Databases**
-
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-
-**Mobile & desktop**
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-<img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
-<img src="https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PySide6" />
-<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-
-**DevOps & tooling**
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+<a href="https://aamiralmani.vercel.app/" title="Portfolio"><img height="40" src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/aamirali65" title="LinkedIn"><img height="40" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+<a href="https://x.com/aamirali6565" title="X"><img height="40" src="https://skillicons.dev/icons?i=twitter" alt="X" /></a>
+<a href="https://www.instagram.com/aamir.develop/" title="Instagram"><img height="40" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
+<a href="mailto:contact.aamirali65@gmail.com" title="Email"><img height="40" src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
+<a href="https://www.xing.com/profile/Aamir_Almani" title="XING"><img height="40" src="https://img.shields.io/badge/XING-006567?style=for-the-badge&logo=xing&logoColor=white" alt="XING" /></a>
 
 </div>
 
@@ -128,6 +102,11 @@ DevOps    · Docker · Kubernetes · Git · GitHub
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=aamirali65&show_icons=true&count_private=true&hide=issues&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D9C0&icon_color=6C63FF" alt="GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamirali65&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D9C0" alt="Top languages" />
+
+<br />
+<br />
+
+<img height="170" src="https://streak-stats.demolab.com?user=aamirali65&theme=tokyonight&hide_border=true&background=00000000&ring=00D9C0&fire=00D9C0&currStreakNum=FFFFFF&currStreakLabel=00D9C0&sideNums=FFFFFF&sideLabels=8B949E&dates=8B949E&stroke=00D9C0" alt="aamirali65's GitHub streak: current streak, longest streak and total contributions" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aamirali65/aamirali65/output/github-contribution-grid-snake-dark.svg" />
